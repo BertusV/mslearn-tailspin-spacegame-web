@@ -1,4 +1,6 @@
 
+[![Build Status](https://bertus-viljoen.visualstudio.com/Space%20Game%20-%20Lerarn/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://bertus-viljoen.visualstudio.com/Space%20Game%20-%20Lerarn/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
